@@ -1,0 +1,7 @@
+# Versions used for the V1.0 build (Python 3.13, Windows x64).
+numpy==2.5.4
+Pillow==13.0.0
+pycollada==0.9.3
+lupa==2.8
+python-dateutil==3.0.0
+six==1.17.0

@@ -1,0 +1,29 @@
+# Release ZIPs belong in GitHub Releases, not Git history.
+*.zip
+*.zip.*
+*.bak
+*.pending
+*.building
+
+# Original/converted game assets and build outputs.
+*.kn5
+*.dds
+*.dae
+*.cdae
+_beamng_conversion/
+output/
+work/
+backups/
+tools/lib/
+
+# Python environments and local machine state.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
